@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class Day1 {
 
-	public static void day1first() {
+	public static void dayfirst() {
 		FileReader reader = new FileReader();
 		ArrayList<String> exampleInput = new ArrayList<>();
 		try {
@@ -32,7 +32,7 @@ public class Day1 {
 		System.out.println(result);
 	}
 	
-	public static void day1second() {
+	public static void daysecond() {
 		FileReader reader = new FileReader();
 		ArrayList<String> exampleInput = new ArrayList<>();
 		try {

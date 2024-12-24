@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Day2 {
-	public static void day2first() {
+	public static void dayfirst() {
 		FileReader reader = new FileReader();
 		ArrayList<String> input = new ArrayList<>();
 		try {
@@ -46,7 +46,7 @@ public class Day2 {
 		return 0;
 	}
 	
-	public static void day2second() {
+	public static void daysecond() {
 		FileReader reader = new FileReader();
 		ArrayList<String> input = new ArrayList<>();
 		try {
